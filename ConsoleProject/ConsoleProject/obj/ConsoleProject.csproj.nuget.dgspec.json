@@ -1,17 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\New folder\\Console-ProjectFInal\\ConsoleProject\\ConsoleProject.csproj": {}
+<<<<<<< HEAD
+    "C:\\Users\\ASUS\\source\\repos\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\New folder\\Console-ProjectFInal\\ConsoleProject\\ConsoleProject.csproj": {
+    "C:\\Users\\ASUS\\source\\repos\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\New folder\\Console-ProjectFInal\\ConsoleProject\\ConsoleProject.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj",
         "projectName": "ConsoleProject",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\New folder\\Console-ProjectFInal\\ConsoleProject\\ConsoleProject.csproj",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\New folder\\Console-ProjectFInal\\ConsoleProject\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\ConsoleProject\\ConsoleProject\\obj\\",
+=======
+    "C:\\Users\\ASUS\\Desktop\\ConsoleProject\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ASUS\\Desktop\\ConsoleProject\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\ConsoleProject\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj",
+        "projectName": "ConsoleProject",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\ConsoleProject\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\ConsoleProject\\ConsoleProject\\ConsoleProject\\obj\\",
+>>>>>>> 929f971 (Interfaces and Methods were created, Conditions are assigned to methods)
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
