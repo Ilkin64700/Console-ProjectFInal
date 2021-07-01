@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Layihesi 2", "Console Layihesi 2\Console Layihesi 2.csproj", "{0CCE6C58-ED22-4C8E-9D15-644E40D3C31E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CCE6C58-ED22-4C8E-9D15-644E40D3C31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCE6C58-ED22-4C8E-9D15-644E40D3C31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCE6C58-ED22-4C8E-9D15-644E40D3C31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCE6C58-ED22-4C8E-9D15-644E40D3C31E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E66E699-2F48-4FCE-B7A3-66CE4C06C29D}
+	EndGlobalSection
+EndGlobal
